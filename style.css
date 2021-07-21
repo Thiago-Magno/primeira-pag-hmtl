@@ -1,5 +1,5 @@
 *{
-    background-color: #F8F8FF;
+    background-color: #f0f0f0ea;
 }
 body{
     margin: 0;
@@ -7,10 +7,10 @@ body{
 
 }
 
-h2 {
+/* h2 {
     text-align: left;
     padding-left: 5rem;
-}
+} */
 
 p {
     text-align: left;
